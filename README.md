@@ -33,6 +33,24 @@ Demostrar dominio de estructuras de datos dinámicas, manejo de archivos, valida
 *Menu principa
 
 ![image alt](https://github.com/99223344/Gestor_Biblioteca_Personal/blob/71f29a25524bb87070753bea3ff562fa3b3cb92c/Captura%20de%20pantalla%202026-03-02%20193626.png)
-![image alt]()
-![image alt]()
-![image alt]()
+
+*Registro de libros 
+
+![image alt](https://github.com/99223344/Gestor_Biblioteca_Personal/blob/47f28b7b494bcf60ddc3d81f3762a0adccd6acf9/Captura%20de%20pantalla%202026-03-02%20193728.png)
+
+*Tabla de registros
+
+![image alt](https://github.com/99223344/Gestor_Biblioteca_Personal/blob/47f28b7b494bcf60ddc3d81f3762a0adccd6acf9/Captura%20de%20pantalla%202026-03-02%20194007.png)
+
+*Modificación de datos de libros
+
+![image alt](https://github.com/99223344/Gestor_Biblioteca_Personal/blob/47f28b7b494bcf60ddc3d81f3762a0adccd6acf9/Captura%20de%20pantalla%202026-03-02%20194404.png)
+
+*Eliminación de libros
+
+![image alt](https://github.com/99223344/Gestor_Biblioteca_Personal/blob/47f28b7b494bcf60ddc3d81f3762a0adccd6acf9/Captura%20de%20pantalla%202026-03-02%20194450.png)
+
+*Búsqueda de libros
+
+![image alt](https://github.com/99223344/Gestor_Biblioteca_Personal/blob/47f28b7b494bcf60ddc3d81f3762a0adccd6acf9/Captura%20de%20pantalla%202026-03-02%20194600.png)
+
