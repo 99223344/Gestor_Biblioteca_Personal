@@ -29,3 +29,10 @@ Aplicación de consola desarrollada en C++ para administrar un registro de libro
 Demostrar dominio de estructuras de datos dinámicas, manejo de archivos, validación de entrada y diseño de aplicaciones de consola. Este proyecto forma parte de un portafolio orientado a mostrar habilidades prácticas en C++ y buenas prácticas de programación.
 
 ## Imagenes del Programa Corriendo.
+
+*Menu principa
+
+![image alt](https://github.com/99223344/Gestor_Biblioteca_Personal/blob/71f29a25524bb87070753bea3ff562fa3b3cb92c/Captura%20de%20pantalla%202026-03-02%20193626.png)
+![image alt]()
+![image alt]()
+![image alt]()
